@@ -24,9 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](/Screenshots/Mobile.png)
-![](/Screenshots/Desktop-active.jpg)
 ![](/Screenshots/Desktop.png)
+![](/Screenshots/Desktop-active.png)
+![](/Screenshots/Mobile.png)
 
 ### Links
 
